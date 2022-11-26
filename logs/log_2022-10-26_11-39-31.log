@@ -1,0 +1,22 @@
+
+-----
+Test: test_buy_product.py::test_buy_shampoo (call)
+Start time: 2022-10-26 11:39:32.666374
+Start name method: input_address
+
+End time: 2022-10-26 11:39:47.653085
+End name method: input_address
+URL: https://fix-price.com/
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_shampoo (call)
+Start time: 2022-10-26 11:39:47.658282
+Start name method: buy_shampoo
+
+End time: 2022-10-26 11:39:50.192142
+End name method: buy_shampoo
+URL: https://fix-price.com/catalog/krasota-i-zdorove/dlya-volos
+
+-----

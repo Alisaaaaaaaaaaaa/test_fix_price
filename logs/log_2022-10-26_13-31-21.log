@@ -1,0 +1,17 @@
+
+-----
+Test: test_buy_product.py::test_buy_shampoo (call)
+Start time: 2022-10-26 13:31:22.624191
+Start name method: input_address
+
+
+-----
+Test: test_buy_product.py::test_buy_shampoo (call)
+Start time: 2022-10-26 13:31:40.909579
+Start name method: buy_shampoo
+
+End time: 2022-10-26 13:31:48.792563
+End name method: buy_shampoo
+URL: https://fix-price.com/catalog/krasota-i-zdorove/p-3220458-shampun-ove-250-ml
+
+-----

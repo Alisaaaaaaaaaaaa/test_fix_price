@@ -1,0 +1,94 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_shampoo (call)
+Start time: 2022-10-25 21:56:45.392446
+Start name method: input_address
+
+End time: 2022-10-25 21:57:06.349535
+End name method: input_address
+URL: https://fix-price.com/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_shampoo (call)
+Start time: 2022-10-25 21:57:06.349535
+Start name method: buy_shampoo
+
+End time: 2022-10-25 21:57:12.748478
+End name method: buy_shampoo
+URL: https://fix-price.com/catalog/krasota-i-zdorove/p-3220458-shampun-ove-250-ml
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_set_of_pens (call)
+Start time: 2022-10-25 21:57:14.576689
+Start name method: buy_pens
+
+
+-----
+Test: tests/test_buy_product.py::test_buy_products (call)
+Start time: 2022-10-25 21:58:05.582378
+Start name method: buy_c_wipes
+
+End time: 2022-10-25 21:58:26.169280
+End name method: buy_c_wipes
+URL: https://fix-price.com/catalog/dlya-doma/p-5040257-salfetki-universalnye-onome-25h21-sm-120-sht
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_products (call)
+Start time: 2022-10-25 21:58:26.170285
+Start name method: shop_address
+
+End time: 2022-10-25 21:58:26.541016
+End name method: shop_address
+URL: https://fix-price.com/catalog/dlya-doma/p-5040257-salfetki-universalnye-onome-25h21-sm-120-sht
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_products (call)
+Start time: 2022-10-25 21:58:26.541016
+Start name method: buy_car
+
+End time: 2022-10-25 21:58:43.819335
+End name method: buy_car
+URL: https://fix-price.com/catalog/igrushki/p-5601379-igrovoy-nabor-gorodskie-viraji-lay-the-ame-v-assortimente
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_products (call)
+Start time: 2022-10-25 21:58:43.819335
+Start name method: shop_address
+
+End time: 2022-10-25 21:58:44.286764
+End name method: shop_address
+URL: https://fix-price.com/catalog/igrushki/p-5601379-igrovoy-nabor-gorodskie-viraji-lay-the-ame-v-assortimente
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_products (call)
+Start time: 2022-10-25 21:58:44.286764
+Start name method: buy_garland
+
+End time: 2022-10-25 21:59:23.210683
+End name method: buy_garland
+URL: https://fix-price.com/catalog/vse-dlya-novogo-goda/p-5312543-girlyanda-novogodnyaya-metallik-snejnoe-krujevo-2-m-v-assortimente
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_products (call)
+Start time: 2022-10-25 21:59:23.210683
+Start name method: shop_address
+
+End time: 2022-10-25 21:59:23.636496
+End name method: shop_address
+URL: https://fix-price.com/catalog/vse-dlya-novogo-goda/p-5312543-girlyanda-novogodnyaya-metallik-snejnoe-krujevo-2-m-v-assortimente
+
+-----

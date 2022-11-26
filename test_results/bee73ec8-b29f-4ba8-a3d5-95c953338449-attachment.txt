@@ -1,0 +1,25 @@
+Start Test
+Current urlhttps://fix-price.com/
+Click select address for delivery
+Click enter address
+Click confirmation button
+Input City and Street
+Confirm city street
+Input building
+Confirm building
+Input entrance
+Input floor
+Input appartement
+Click save button
+Clients address is added
+Current urlhttps://fix-price.com/
+Select beauty category
+Select hair category
+Select shampoo Dove
+Good Value Word
+Screenshot good
+Current urlhttps://fix-price.com/catalog/krasota-i-zdorove/p-3220458-shampun-ove-250-ml
+Click add to cart
+Click go to cart
+Shampoo in cart
+Finish Test

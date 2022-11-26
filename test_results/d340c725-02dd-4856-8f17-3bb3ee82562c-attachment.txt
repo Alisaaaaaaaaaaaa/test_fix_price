@@ -1,0 +1,12 @@
+Start Test
+Current urlhttps://fix-price.com/
+Select catalog button
+Select stationery
+Select show full list button
+Select berlingo brand
+Select set of pens
+Screenshot good
+Added to favorite
+Good value URL
+Pens added to favorite
+Finish Test

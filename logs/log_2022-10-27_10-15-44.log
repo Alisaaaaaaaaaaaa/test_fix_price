@@ -1,0 +1,110 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_with_delivery (call)
+Start time: 2022-10-27 10:15:45.950854
+Start name method: input_address
+
+End time: 2022-10-27 10:16:02.996432
+End name method: input_address
+URL: https://fix-price.com/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_with_delivery (call)
+Start time: 2022-10-27 10:16:02.996432
+Start name method: buy_shampoo
+
+End time: 2022-10-27 10:16:10.656206
+End name method: buy_shampoo
+URL: https://fix-price.com/catalog/krasota-i-zdorove/p-3220458-shampun-ove-250-ml
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_with_delivery (call)
+Start time: 2022-10-27 10:16:10.656206
+Start name method: product_confirmation
+
+End time: 2022-10-27 10:16:11.548249
+End name method: product_confirmation
+URL: https://fix-price.com/catalog/krasota-i-zdorove/p-3220458-shampun-ove-250-ml
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_put_product_to_favorite (call)
+Start time: 2022-10-27 10:16:14.930771
+Start name method: buy_pens
+
+End time: 2022-10-27 10:16:32.282766
+End name method: buy_pens
+URL: https://fix-price.com/catalog/kantstovary/p-5700486-nabor-gelevyh-ruchek-erlingo-6-sht-v-assortimente
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_products_in_shop (call)
+Start time: 2022-10-27 10:16:35.652336
+Start name method: buy_c_wipes
+
+End time: 2022-10-27 10:16:53.927943
+End name method: buy_c_wipes
+URL: https://fix-price.com/catalog/dlya-doma/p-5040257-salfetki-universalnye-onome-25h21-sm-120-sht
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_products_in_shop (call)
+Start time: 2022-10-27 10:16:53.934006
+Start name method: shop_address
+
+End time: 2022-10-27 10:16:54.185475
+End name method: shop_address
+URL: https://fix-price.com/catalog/dlya-doma/p-5040257-salfetki-universalnye-onome-25h21-sm-120-sht
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_products_in_shop (call)
+Start time: 2022-10-27 10:16:54.193473
+Start name method: buy_car
+
+End time: 2022-10-27 10:17:12.387022
+End name method: buy_car
+URL: https://fix-price.com/catalog/igrushki/p-5601379-igrovoy-nabor-gorodskie-viraji-lay-the-ame-v-assortimente
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_products_in_shop (call)
+Start time: 2022-10-27 10:17:12.387022
+Start name method: shop_address
+
+End time: 2022-10-27 10:17:12.713675
+End name method: shop_address
+URL: https://fix-price.com/catalog/igrushki/p-5601379-igrovoy-nabor-gorodskie-viraji-lay-the-ame-v-assortimente
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_products_in_shop (call)
+Start time: 2022-10-27 10:17:12.713675
+Start name method: buy_garland
+
+End time: 2022-10-27 10:17:27.917688
+End name method: buy_garland
+URL: https://fix-price.com/catalog/vse-dlya-novogo-goda/p-5312543-girlyanda-novogodnyaya-metallik-snejnoe-krujevo-2-m-v-assortimente
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_products_in_shop (call)
+Start time: 2022-10-27 10:17:27.917688
+Start name method: shop_address
+
+End time: 2022-10-27 10:17:28.270102
+End name method: shop_address
+URL: https://fix-price.com/catalog/vse-dlya-novogo-goda/p-5312543-girlyanda-novogodnyaya-metallik-snejnoe-krujevo-2-m-v-assortimente
+
+-----

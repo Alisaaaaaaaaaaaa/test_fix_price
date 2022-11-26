@@ -1,0 +1,12 @@
+
+-----
+Test: test_buy_product.py::test_buy_shampoo (call)
+Start time: 2022-10-26 13:24:42.080147
+Start name method: input_address
+
+
+-----
+Test: test_buy_product.py::test_buy_shampoo (call)
+Start time: 2022-10-26 13:24:59.781487
+Start name method: buy_shampoo
+

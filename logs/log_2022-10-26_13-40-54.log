@@ -1,0 +1,33 @@
+
+-----
+Test: test_buy_product.py::test_buy_shampoo (call)
+Start time: 2022-10-26 13:40:56.284640
+Start name method: input_address
+
+End time: 2022-10-26 13:41:14.673964
+End name method: input_address
+URL: https://fix-price.com/
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_shampoo (call)
+Start time: 2022-10-26 13:41:14.673964
+Start name method: buy_shampoo
+
+End time: 2022-10-26 13:41:22.532736
+End name method: buy_shampoo
+URL: https://fix-price.com/catalog/krasota-i-zdorove/p-3220458-shampun-ove-250-ml
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_shampoo (call)
+Start time: 2022-10-26 13:41:22.532736
+Start name method: product_confirmation
+
+End time: 2022-10-26 13:41:23.556887
+End name method: product_confirmation
+URL: https://fix-price.com/catalog/krasota-i-zdorove/p-3220458-shampun-ove-250-ml
+
+-----

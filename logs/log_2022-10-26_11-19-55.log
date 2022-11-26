@@ -1,0 +1,17 @@
+
+-----
+Test: test_buy_product.py::test_buy_shampoo (call)
+Start time: 2022-10-26 11:19:56.860984
+Start name method: input_address
+
+End time: 2022-10-26 11:20:11.030517
+End name method: input_address
+URL: https://fix-price.com/
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_shampoo (call)
+Start time: 2022-10-26 11:20:11.030517
+Start name method: buy_shampoo
+

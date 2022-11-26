@@ -1,0 +1,40 @@
+Start Test
+Current urlhttps://fix-price.com/
+Select for home category
+Select Cleaning Category
+Select price 199
+Select filtration
+Alphabet filtration
+Select Wipes
+Screenshot good
+Good value URL
+Confirmation button
+Current urlhttps://fix-price.com/catalog/dlya-doma/p-5040257-salfetki-universalnye-onome-25h21-sm-120-sht
+Click address shop
+Click confirmation button
+Purchase Wipes Good
+Current urlhttps://fix-price.com/
+Select toys category
+Select boys toys
+Select price 79
+Select car
+Screenshot good
+Confirmation button
+Current urlhttps://fix-price.com/catalog/igrushki/p-5601379-igrovoy-nabor-gorodskie-viraji-lay-the-ame-v-assortimente
+Click address shop
+Click confirmation button
+Purchase Car Good
+Current urlhttps://fix-price.com/
+Select new year category
+Select garlands
+Select filtration
+Select max price filtration
+Select metallic garland
+Screenshot good
+Good value URL
+Confirmation button
+Current urlhttps://fix-price.com/catalog/vse-dlya-novogo-goda/p-5312543-girlyanda-novogodnyaya-metallik-snejnoe-krujevo-2-m-v-assortimente
+Click address shop
+Click confirmation button
+Purchase Garland Good
+Finish Test
